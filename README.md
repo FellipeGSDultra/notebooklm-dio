@@ -114,4 +114,4 @@ Abaixo estão dispostos **3 templates de prompts de engenharia reversa** para se
 > O tom deve ser técnico, porém acessível, seguindo o padrão visual de repositórios famosos e de código aberto."
 
 ---
-Feito com 💙 por Fellipe Gabriel Santos Dultra no desafio de aprendizagem ativa da DIO.
+Feito por Fellipe Gabriel Santos Dultra no desafio de aprendizagem ativa da DIO.
